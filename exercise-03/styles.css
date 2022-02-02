@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body {
+  font-family: 'Oswald', sans-serif;
+  width: 70%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-weight: 700;
+}
+h1:hover {
+  font-style: italic;
+}
+
+h4 {
+  font-weight: 400;
+}
+
+p {
+  font-weight: 100;
+}
