@@ -8,3 +8,12 @@ body {
   margin: 0 auto;
   text-align: left;
 }
+
+a {
+  color: #333d79ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
