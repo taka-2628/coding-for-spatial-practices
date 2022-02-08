@@ -1,4 +1,12 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #grid-container {
+  width: 80%;
   display: grid;
   grid-column-gap: 20px;
   grid-row-gap: 20px;
@@ -6,10 +14,10 @@
 }
 
 .grid-item {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
 .grid-item img {
-  width: 80%;
+  width: 90%;
 }
