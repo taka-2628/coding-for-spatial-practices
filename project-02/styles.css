@@ -21,3 +21,15 @@ body {
 .grid-item img {
   width: 90%;
 }
+
+/* MAP STYLING */
+#map {
+  position: relative;
+  top: -10%;
+  width: 60%;
+}
+
+#map img {
+  width: 100%;
+}
+

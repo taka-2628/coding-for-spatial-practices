@@ -1,0 +1,31 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+}
+
+#map {
+  position: relative;
+  width: 80%;
+}
+
+#map img {
+  width: 100%;
+}
+
+.bread {
+  width:8%;
+  height:8%;
+  background-image: url(arepas_columbia-venezuera.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+}
+
+#pin-1 {
+  top:29%;
+  left:36%;
+}
