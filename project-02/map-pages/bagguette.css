@@ -1,14 +1,15 @@
 .bread {
   width:8%;
   height:8%;
-  background-image: url(../images/arepas_columbia-venezuera.png);
+  background-image: url(../images/bagguette_france.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
+  transform: rotate(-30deg)
 }
 
 #pin-1 {
-  top:63%;
-  left:24%;
+  top:44%;
+  left:44.5%;
 }

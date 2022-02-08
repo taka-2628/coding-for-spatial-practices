@@ -1,7 +1,7 @@
 .bread {
-  width:8%;
-  height:8%;
-  background-image: url(../images/arepas_columbia-venezuera.png);
+  width:10%;
+  height:10%;
+  background-image: url(../images/bananabread_america.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top:63%;
-  left:24%;
+  top:40%;
+  left:13%;
 }
