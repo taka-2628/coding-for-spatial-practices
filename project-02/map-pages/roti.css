@@ -1,0 +1,14 @@
+.bread {
+  width: 8%;
+  height: 8%;
+  background-image: url(../images/roti_carribean.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+}
+
+#pin-1 {
+  top: 41%;
+  left: 40%;
+}
