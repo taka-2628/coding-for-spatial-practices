@@ -1,6 +1,6 @@
 .bread {
-  width:8%;
-  height:8%;
+  width:10%;
+  height:10%;
   background-image: url(../images/arepas_columbia-venezuera.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top:63%;
+  top:64%;
   left:24%;
 }

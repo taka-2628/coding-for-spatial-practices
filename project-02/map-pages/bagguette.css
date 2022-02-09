@@ -1,15 +1,15 @@
 .bread {
-  width:8%;
-  height:8%;
+  width:10%;
+  height:10%;
   background-image: url(../images/bagguette_france.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
   position: absolute;
-  transform: rotate(-30deg)
+  transform: rotate(-35deg)
 }
 
 #pin-1 {
-  top:44%;
-  left:44.5%;
+  top:43%;
+  left:43.5%;
 }

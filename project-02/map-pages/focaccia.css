@@ -1,6 +1,6 @@
 .bread {
-  width:6%;
-  height:6%;
+  width:8%;
+  height:8%;
   background-image: url(../images/focaccia_italy.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 47%;
+  top: 46%;
   left: 47%;
 }

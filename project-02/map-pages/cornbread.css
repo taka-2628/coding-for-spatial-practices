@@ -1,6 +1,6 @@
 .bread {
-  width:9%;
-  height:9%;
+  width:11%;
+  height:11%;
   background-image: url(../images/cornbread_america.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top:40%;
-  left:13%;
+  top: 42%;
+  left: 13%;
 }

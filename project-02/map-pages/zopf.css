@@ -1,6 +1,6 @@
 .bread {
-  width: 8%;
-  height: 8%;
+  width: 10%;
+  height: 10%;
   background-image: url(../images/zopf_austria-swiss-germany.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 43%;
-  left: 45%;
+  top: 42%;
+  left: 46%;
 }
