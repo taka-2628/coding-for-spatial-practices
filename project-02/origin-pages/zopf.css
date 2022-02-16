@@ -1,0 +1,14 @@
+.bread {
+  width: 10%;
+  height: 10%;
+  background-image: url(../images/zopf_austria-swiss-germany.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+}
+
+#pin-1 {
+  top: 42%;
+  left: 46%;
+}

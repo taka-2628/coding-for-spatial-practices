@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#map-wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+#map {
+  margin: auto;
+  position: relative;
+  width: 60%;
+  display: block;
+}
+
+#map img {
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+a:visited {
+  color: #000000;
+}
+
+#description {
+  margin: auto;
+  width: 35%;
+  display: block;
+}

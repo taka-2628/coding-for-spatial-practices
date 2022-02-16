@@ -1,0 +1,15 @@
+.bread {
+  width:8%;
+  height:8%;
+  background-image: url(../images/grissini_italy.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  transform: rotate(55deg);
+}
+
+#pin-1 {
+  top: 47%;
+  left: 47%;
+}
