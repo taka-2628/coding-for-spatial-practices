@@ -1,7 +1,7 @@
 .bread {
   width: 10%;
   height: 10%;
-  background-image: url(../images/roti_carribean.png);
+  background-image: url(../images/curreybread.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 41%;
-  left: 39%;
+  top:50%;
+  left:81%;
 }
