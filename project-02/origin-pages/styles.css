@@ -3,3 +3,41 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#content-wrapper {
+  width: 100%;
+  margin: auto;
+}
+#image-wrapper {
+  text-align: center;
+  align-items: center;
+}
+#image-wrapper img {
+  margin: 0 20px; 
+  height: 40vh;
+  display: inline-block;
+}
+#text-wrapper {
+  width: 35%;
+  margin: auto;
+}
+#content-wrapper a {
+  color: #000000;
+  text-decoration: underline;
+}
+#content-wrapper a:hover {
+  color: #000000;
+  text-decoration: underline;
+  font-style: italic;
+}
+#content-wrapper a:visited {
+  color: #000000;
+  text-decoration: underline;
+}
