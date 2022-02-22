@@ -19,14 +19,18 @@ body {
 }
 
 #image-wrapper img {
-  margin: 0 20px; 
-  height: 40vh;
+  margin-bottom: 20px; 
+  width: 35%;
   display: inline-block;
 }
 
 #text-wrapper {
   width: 35%;
   margin: auto;
+}
+
+h3 {
+  font-family: 'Libre Baskerville', serif;
 }
 
 #content-wrapper a {
