@@ -2,9 +2,6 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-}
-
-body {
   height: 100vh;
   display: flex;
   align-items: center;
@@ -15,19 +12,23 @@ body {
   width: 100%;
   margin: auto;
 }
+
 #image-wrapper {
   text-align: center;
   align-items: center;
 }
+
 #image-wrapper img {
   margin: 0 20px; 
   height: 40vh;
   display: inline-block;
 }
+
 #text-wrapper {
   width: 35%;
   margin: auto;
 }
+
 #content-wrapper a {
   color: #000000;
   text-decoration: underline;
