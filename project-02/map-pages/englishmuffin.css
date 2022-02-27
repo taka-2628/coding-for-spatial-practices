@@ -1,7 +1,7 @@
 .bread {
   width:8%;
   height:8%;
-  background-image: url(../images/payes_catalonia.png);
+  background-image: url(../images/englishmuffin_newyork.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 45.5%;
-  left: 42%;
+  top: 47%;
+  left: 22%;
 }
