@@ -1,7 +1,7 @@
 .bread {
   width:10%;
   height:10%;
-  background-image: url(../images/obinon_pakistan-uzbek.png);
+  background-image: url(../images/sourdough-egypt.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 43%;
-  left: 60%;
+  top: 55%;
+  left: 49%;
 }

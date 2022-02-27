@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+/* mobile first */
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: papayawhip;
+  font-family: 'Oswald', sans-serif;
+}
+
+header, footer, main {
+  padding: 20px;
+  border: 1pt solid #000000;
+  color: #141414; 
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+}
+
+header, footer {
+  line-height: 60px;
+}
+
+main {
+  flex: 1;
+}
+
+.pullquotes {
+  color: tomato;
+  font-style: italic;
+  font-size: 1.68em;
+  line-height: 1.4em;
+  padding: 15px 0;
+}
+
+.image img{
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: 0% 40%;
+}
+
+/* desktop dedia query */
+@media (min-width: 960px){
+  header, footer {
+    background-color: orange;
+  }
+  
+  main {
+    flex-wrap: wrap;
+  }
+
+  section {
+    display: flex;
+  }
+
+  .image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 0% 35%;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 10px;
+  }
+}
