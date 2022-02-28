@@ -1,7 +1,7 @@
 .bread {
-  width: 12%;
-  height: 12%;
-  background-image: url(../images/pita_middleeast.png);
+  width: 10%;
+  height: 10%;
+  background-image: url(../images/pretzel.png);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -9,6 +9,6 @@
 }
 
 #pin-1 {
-  top: 50%;
-  left: 53%;
+  top: 44%;
+  left: 46%;
 }
