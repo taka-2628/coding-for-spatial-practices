@@ -1,0 +1,25 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background: tomato;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+  animation: squareToCircle 3s ease-in-out infinite;
+  animation-delay: 1000ms;
+}
+
+@keyframes squareToCircle {
+  0% {
+    transform: translatex(0px)
+  }
+  50% {
+    transform: translatex(100px);
+    border-radius: 50%;
+    background: blue;
+  }
+  100% {
+    transform: translatex(0px)
+  }
+}
+
