@@ -84,6 +84,14 @@ p.pullquote {
   width: 100%;
 }
 
+.en:hover {
+  text-decoration: underline;
+}
+
+.pt:hover {
+  text-decoration: underline;
+}
+
 @media (min-width: 960px) {
   main {
     display: flex;
