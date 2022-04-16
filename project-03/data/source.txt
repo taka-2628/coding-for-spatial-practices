@@ -1,0 +1,11 @@
+Oil_Refineries.csv
+https://azgeo-open-data-agic.hub.arcgis.com/datasets/geoplatform::oil-refineries/about
+
+Archived Data
+FracTrackerNationalWellFile_2021
+https://www.fractracker.org/data/data-resources/#national
+https://app.box.com/s/i7w2tm3tlp4fqmoe3pzelyjx5gbjj2lk/folder/153834066656
+
+Oil_Wells_(Inside_LA_County).csv
+https://geohub.lacity.org/datasets/lahub::oil-wells-inside-la-county/about
+https://geohub.lacity.org/datasets/oil-wells-inside-la-county/api
