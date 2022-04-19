@@ -519,7 +519,6 @@ function renderData(dataset) {
       image.setAttribute("src", dataset[i].URL);
 
       const title = document.createElement("p");
-      title.classList.add("hidden");
       title.textContent = `${dataset[i].NAME} REFINERY`;
 
       hoverContainer.appendChild(image)
