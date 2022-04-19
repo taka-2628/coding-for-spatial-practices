@@ -17,7 +17,7 @@ const data = [
     "CAPACITY": 5500,
     "US_RANK": 134,
     "CRUDE": 5500,
-    "URL": "https://drive.google.com/uc?id=1ry_aDJNOTRsWp0aYv4q7Aq8UcYON2iFm"
+    "URL": "https://drive.google.com/uc?id=1Qw68r2sgDP4PgdbcS9FTDTnHnfIgnL4H"
   },
   {
     "OBJECTID": 2,
@@ -37,7 +37,7 @@ const data = [
     "CAPACITY": 15000,
     "US_RANK": 122,
     "CRUDE": 15000,
-    "URL": "https://drive.google.com/uc?id=1r6yLIb9_pLLFhtV1_Z3d4BHaN8YqTmSD"
+    "URL": "https://drive.google.com/uc?id=1yY5_zJxsYhVjKg6qqM15stfov4aZIK7T"
   },
   {
     "OBJECTID": 3,
@@ -57,7 +57,7 @@ const data = [
     "CAPACITY": 36000,
     "US_RANK": 107,
     "CRUDE": 36000,
-    "URL": "https://drive.google.com/uc?id=1WytDZWQOPkbOXcbM0CQvnfmLs8Ul15fR"
+    "URL": "https://drive.google.com/uc?id=15nahl_XM_xSBy3piXPn9zSnvs0vzb3wQ"
   },
   {
     "OBJECTID": 4,
@@ -77,7 +77,7 @@ const data = [
     "CAPACITY": 20000,
     "US_RANK": 117,
     "CRUDE": 20000,
-    "URL": "https://drive.google.com/uc?id=1CjOUqZR2XolRmj6Z4X4W26jjwKll6pBW"
+    "URL": "https://drive.google.com/uc?id=1I7mgnNKmSUrhYHkVDysrmp0bqNGWTb-a"
   },
   {
     "OBJECTID": 5,
@@ -97,7 +97,7 @@ const data = [
     "CAPACITY": 160000,
     "US_RANK": 44,
     "CRUDE": 160000,
-    "URL": "https://drive.google.com/uc?id=18to-xjaj-Vp3NMEZYfxRYQKd_9tgnDfz"
+    "URL": "https://drive.google.com/uc?id=1KTkxzPZgIX1op03gbPkQhRLEJbevXV-F"
   },
   {
     "OBJECTID": 6,
@@ -117,7 +117,7 @@ const data = [
     "CAPACITY": 225000,
     "US_RANK": 32,
     "CRUDE": 225000,
-    "URL": "https://drive.google.com/uc?id=1xA6wCQjpRpZ0FRWB7eo6Jpw-Mnoa04sv"
+    "URL": "https://drive.google.com/uc?id=1iKrPeq4WO6Bu6y7zyIBDgYtyZK-6mDRD"
   },
   {
     "OBJECTID": 7,
@@ -137,7 +137,7 @@ const data = [
     "CAPACITY": 86000,
     "US_RANK": 73,
     "CRUDE": 86000,
-    "URL": "https://drive.google.com/uc?id=1jSD9cUZb7laGJGzKO_mINdR28FBy8kIG"
+    "URL": "https://drive.google.com/uc?id=1lVn5Jhpnkzie0DrxqLKs39VnUIpYDmjD"
   },
   {
     "OBJECTID": 8,
@@ -157,7 +157,7 @@ const data = [
     "CAPACITY": 560500,
     "US_RANK": 2,
     "CRUDE": 560500,
-    "URL": "https://drive.google.com/uc?id=14QB6hIKqkCMwp497fr3g3mqSvGaDWnU5"
+    "URL": "https://drive.google.com/uc?id=1Yjtygk9RdoNbD1ObMzpwkIaYtP3plNJO"
   },
   {
     "OBJECTID": 9,
@@ -177,7 +177,7 @@ const data = [
     "CAPACITY": 190000,
     "US_RANK": 37,
     "CRUDE": 190000,
-    "URL": "https://drive.google.com/uc?id=1Wadf3nQyhN4InZcG3CFWG2unTysYoyxM"
+    "URL": "https://drive.google.com/uc?id=1VcfkEmzOqSXv0GIegCFlBMiN1oNnQSU_"
   },
   {
     "OBJECTID": 10,
@@ -197,7 +197,7 @@ const data = [
     "CAPACITY": 153000,
     "US_RANK": 48,
     "CRUDE": 153000,
-    "URL": "https://drive.google.com/uc?id=1BJ_RRlvX0pQKQy8TyDoywLnO1nM8pvKZ"
+    "URL": "https://drive.google.com/uc?id=1HRhpVpUTusH9OUTlyh2r4KWADq0am5NH"
   },
   {
     "OBJECTID": 11,
@@ -217,7 +217,7 @@ const data = [
     "CAPACITY": 89000,
     "US_RANK": 71,
     "CRUDE": 89000,
-    "URL": "https://drive.google.com/uc?id=18NM1-XN2oCN0i6zmLKAcY1nsxT6fG_2J"
+    "URL": "https://drive.google.com/uc?id=11jWmHYGS4KeVAB-gznu9ihu_T5JF7fuL"
   },
   {
     "OBJECTID": 12,
@@ -237,7 +237,7 @@ const data = [
     "CAPACITY": 191000,
     "US_RANK": 36,
     "CRUDE": 191000,
-    "URL": "https://drive.google.com/uc?id=1IZa-Uno28T_YgNIIwqH5jPUh_wqR4Dss"
+    "URL": "https://drive.google.com/uc?id=137SDEMpvfi0IHa5ngVagaKCAhVVHCJpl"
   },
   {
     "OBJECTID": 13,
@@ -257,7 +257,7 @@ const data = [
     "CAPACITY": 85000,
     "US_RANK": 76,
     "CRUDE": 85000,
-    "URL": "https://drive.google.com/uc?id=1Y5Ix-v9nt9zcN8bV4bMLZNt9V7KACxlF"
+    "URL": "https://drive.google.com/uc?id=1Aan7o45g8XDZhIUFtFCnubGRCnCvFRbQ"
   },
   {
     "OBJECTID": 14,
@@ -277,7 +277,7 @@ const data = [
     "CAPACITY": 72000,
     "US_RANK": 86,
     "CRUDE": 72000,
-    "URL": "https://drive.google.com/uc?id=1XSGIoHnmm1q18Kh-fIA-QPn48SJr6_yb"
+    "URL": "https://drive.google.com/uc?id=1CQyaQxRKLCMTpwe1xXyj9818QYqwIG_Q"
   },
   {
     "OBJECTID": 15,
@@ -297,7 +297,7 @@ const data = [
     "CAPACITY": 156400,
     "US_RANK": 47,
     "CRUDE": 156400,
-    "URL": "https://drive.google.com/uc?id=1Sn3HlimgjXqeQC2dfUngSzhRBvZNfKh4"
+    "URL": "https://drive.google.com/uc?id=1dntt4bVm_mEdZEKSejQfvEFYqTLER9GP"
   },
   {
     "OBJECTID": 16,
@@ -317,7 +317,7 @@ const data = [
     "CAPACITY": 195000,
     "US_RANK": 35,
     "CRUDE": 195000,
-    "URL": "https://drive.google.com/uc?id=10EInuOepaeGGvxMpsGOi4ADEojGWlRxS"
+    "URL": "https://drive.google.com/uc?id=14Lwj4JtLva73dqwMdXm3A7eRC-pvRJAX"
   },
   {
     "OBJECTID": 17,
@@ -337,7 +337,7 @@ const data = [
     "CAPACITY": 112229,
     "US_RANK": 61,
     "CRUDE": 112229,
-    "URL": "https://drive.google.com/uc?id=1FwVJm8S0BY_vZfcSvwGr4C3i7voWeJGm"
+    "URL": "https://drive.google.com/uc?id=16ClQsFX3Kt7hDnIHiHVWxq-TSxiB_so6"
   },
   {
     "OBJECTID": 18,
@@ -357,7 +357,7 @@ const data = [
     "CAPACITY": 425000,
     "US_RANK": 6,
     "CRUDE": 425000,
-    "URL": "https://drive.google.com/uc?id=1QixJBHR9UiyQEZfUVhCh7hFGhkxt49Bd"
+    "URL": "https://drive.google.com/uc?id=1MzS-8SItDUmAIuuEw7MiQWLmkorZ4M_z"
   },
   {
     "OBJECTID": 19,
@@ -377,7 +377,7 @@ const data = [
     "CAPACITY": 120200,
     "US_RANK": 58,
     "CRUDE": 120200,
-    "URL": "https://drive.google.com/uc?id=1AdUV-_F-RywbRPkCckJ0fLxIqUGA86Js"
+    "URL": "https://drive.google.com/uc?id=1ryy4-9O7SniE0DXFqEne1QMGjp24L1zh"
   },
   {
     "OBJECTID": 20,
@@ -397,7 +397,7 @@ const data = [
     "CAPACITY": 85000,
     "US_RANK": 75,
     "CRUDE": 85000,
-    "URL": "https://drive.google.com/uc?id=1kYAyn7jskWjFYrBgkcyJfbosFAPi8yMN"
+    "URL": "https://drive.google.com/uc?id=1N-leDmxDtMtj6IYJc6yqojkmswBihA11"
   },
   {
     "OBJECTID": 21,
@@ -417,7 +417,7 @@ const data = [
     "CAPACITY": 84500,
     "US_RANK": 77,
     "CRUDE": 0,
-    "URL": "https://drive.google.com/uc?id=1u6PnW9BK1_Nddld4-db_BAHd-Gujo1T8"
+    "URL": "https://drive.google.com/uc?id=1AKyEAEs5Aq-5MsJhz3ailEYDS-SZ5GPi"
   },
   {
     "OBJECTID": 22,
@@ -437,7 +437,7 @@ const data = [
     "CAPACITY": 70300,
     "US_RANK": 87,
     "CRUDE": 0,
-    "URL": "https://drive.google.com/uc?id=14exyojSyo0WDVDzHz44aKjSEMySURH6d"
+    "URL": "https://drive.google.com/uc?id=1OBMcnRrSiL2LtpfDE7UT3XO_EfVQFRSi"
   },
   {
     "OBJECTID": 23,
@@ -457,7 +457,7 @@ const data = [
     "CAPACITY": 28200,
     "US_RANK": 110,
     "CRUDE": 28200,
-    "URL": "https://drive.google.com/uc?id=1lnJBsu6kj0WVO3xePClQ_itiHPR4KB7K"
+    "URL": "https://drive.google.com/uc?id=1KrdyidaL20vk2Ac1KkxBgG1yhH6yi5zD"
   },
   {
     "OBJECTID": 24,
@@ -477,7 +477,7 @@ const data = [
     "CAPACITY": 22300,
     "US_RANK": 116,
     "CRUDE": 22300,
-    "URL": "https://drive.google.com/uc?id=1_hhUEK-lcUaC7b8Ufi7bjOnNTheMpAS_"
+    "URL": "https://drive.google.com/uc?id=1KGDVEpj5bo63Fr5E5kyHPITOGivzaxrx"
   },
   {
     "OBJECTID": 25,
@@ -497,7 +497,267 @@ const data = [
     "CAPACITY": 0,
     "US_RANK": 139,
     "CRUDE": 0,
-    "URL": "https://drive.google.com/uc?id=15pw7OoQVRQeCv3rYqBa_nXghNC3iFhj2"
+    "URL": "https://drive.google.com/uc?id=1_3Pm5AG9uIZ5A7M2_Ct3o6IdGz9_Z4Fp"
+  },
+  {
+    "OBJECTID": 26,
+    "NAME": "WESTLAKE",
+    "ADDRESS": "2200 OLD SPANISH TRAIL",
+    "CITY": "WESTLAKE",
+    "STATE": "LA",
+    "TYPE": "LARGE MEDIUM COMPLEXITY REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 705,
+    "COUNTY": "CALCASIEU",
+    "LATITUDE": 30.24116,
+    "LONGITUDE": -93.27022,
+    "WEBSITE": "http://www.phillips66.com",
+    "OWNER": "PHILLIPS 66 COMPANY",
+    "OPERNAME": "PHILLIPS 66 COMPANY",
+    "CAPACITY": 260000,
+    "US_RANK": 21,
+    "CRUDE": 260000,
+    "URL": "https://drive.google.com/uc?id=1_PQkZuMPKO0l4Q_tAB4mC5aReGAtAHmw"
+  },
+  {
+    "OBJECTID": 27,
+    "NAME": "SAINT PAUL PARK",
+    "ADDRESS": "301 ST PAUL PARK RD",
+    "CITY": "SAINT PAUL PARK",
+    "STATE": "MN",
+    "TYPE": "MEDIUM REFINERY WITH HIGH COMPLEXITY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 370,
+    "COUNTY": "WASHINGTON",
+    "LATITUDE": 44.85156,
+    "LONGITUDE": -93.00051,
+    "WEBSITE": "https://www.marathonpetroleum.com",
+    "OWNER": "MARATHON PETROLEUM CORP",
+    "OPERNAME": "MARATHON PETROLEUM CO LP",
+    "CAPACITY": 102000,
+    "US_RANK": 63,
+    "CRUDE": 98515,
+    "URL": "https://drive.google.com/uc?id=1nd86st-whT6hzugm5sMGFHq1Nq-qZUk5"
+  },
+  {
+    "OBJECTID": 28,
+    "NAME": "BRADFORD",
+    "ADDRESS": "77 N KENDALL AVE",
+    "CITY": "BRADFORD",
+    "STATE": "PA",
+    "TYPE": "VERY SMALL REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 250,
+    "COUNTY": "MCKEAN",
+    "LATITUDE": 41.96487,
+    "LONGITUDE": -78.63466,
+    "WEBSITE": "http://www.amref.com",
+    "OWNER": "AMERICAN REFINING GROUP INC",
+    "OPERNAME": "AMERICAN REFINING GROUP INC",
+    "CAPACITY": 11000,
+    "US_RANK": 127,
+    "CRUDE": 11000,
+    "URL": "https://drive.google.com/uc?id=1-u_4Yt6mGk7eTDzdt6qM4VzD86UGINJv"
+  },
+  {
+    "OBJECTID": 29,
+    "NAME": "EVANSTON",
+    "ADDRESS": "2990 COUNTY ROAD 180",
+    "CITY": "EVANSTON",
+    "STATE": "WY",
+    "TYPE": "VERY SMALL SIMPLE REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 26,
+    "COUNTY": "UINTA",
+    "LATITUDE": 41.26035,
+    "LONGITUDE": -110.80691,
+    "WEBSITE": "http://silvereagleenergy.com",
+    "OWNER": "SILVER EAGLE REFINING INC",
+    "OPERNAME": "SILVER EAGLE REFINING",
+    "CAPACITY": 3000,
+    "US_RANK": 136,
+    "CRUDE": 3000,
+    "URL": "https://drive.google.com/uc?id=130BCixYXyfMaE4NmYf810WlwW5-NTLoy"
+  },
+  {
+    "OBJECTID": 30,
+    "NAME": "EWA BEACH",
+    "ADDRESS": "91-325 KOMOHANA STREET",
+    "CITY": "KAPOLEI",
+    "STATE": "HI",
+    "TYPE": "MEDIUM COMPLEX REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 260,
+    "COUNTY": "HONOLULU",
+    "LATITUDE": 21.30378,
+    "LONGITUDE": -158.09246,
+    "WEBSITE": "http://www.hawaiiindependentenergy.com",
+    "OWNER": "PAR PETROLEUM INC",
+    "OPERNAME": "HAWAII INDEPENDENT ENERGY LLC",
+    "CAPACITY": 93500,
+    "US_RANK": 68,
+    "CRUDE": 93500,
+    "URL": "https://drive.google.com/uc?id=1unUzGosPqTylFEKcl4s5cv2R4pgbDjUD"
+  },
+  {
+    "OBJECTID": 31,
+    "NAME": "LOS ANGELES (WILMINGTON PLANT)",
+    "ADDRESS": "2101 E PACIFIC COAST HIGHWAY",
+    "CITY": "WILMINGTON",
+    "STATE": "CA",
+    "TYPE": "MEDIUM SIZED COMPLEX REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 520,
+    "COUNTY": "LOS ANGELES",
+    "LATITUDE": 33.79637,
+    "LONGITUDE": -118.23297,
+    "WEBSITE": "https://www.marathonpetroleum.com",
+    "OWNER": "MARATHON PETROLEUM CORP",
+    "OPERNAME": "MARATHON PETROLEUM CO LP",
+    "CAPACITY": 94900,
+    "US_RANK": 67,
+    "CRUDE": 94900,
+    "URL": "https://drive.google.com/uc?id=1gnZ0ARi5K8GK5gYwg-X9Wq8l_AP3NG8P"
+  },
+  {
+    "OBJECTID": 32,
+    "NAME": "NORTH SALT LAKE",
+    "ADDRESS": "333 W CENTER STREET",
+    "CITY": "NORTH SALT LAKE",
+    "STATE": "UT",
+    "TYPE": "SMALL BUT MEDIUM COMPLEX REFINERY FOCUSED ON GASOLINE PRODUCTION",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 146,
+    "COUNTY": "DAVIS",
+    "LATITUDE": 40.83864,
+    "LONGITUDE": -111.92062,
+    "WEBSITE": "http://www.bigwestoil.com",
+    "OWNER": "FJ MANAGEMENT INC",
+    "OPERNAME": "BIG WEST OIL CO",
+    "CAPACITY": 30500,
+    "US_RANK": 109,
+    "CRUDE": 30500,
+    "URL": "https://drive.google.com/uc?id=1LKhZ9F15l0TZ5L8ua2rXl2QZJ40MoHw8"
+  },
+  {
+    "OBJECTID": 33,
+    "NAME": "HONOLULU",
+    "ADDRESS": "91-480 MALAKOLE STREET",
+    "CITY": "KAPOLEI",
+    "STATE": "HI",
+    "TYPE": "MEDIUM SIZED MEDIUM COMPLEXITY REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 203,
+    "COUNTY": "HONOLULU",
+    "LATITUDE": 21.30988,
+    "LONGITUDE": -158.1118,
+    "WEBSITE": "https://www.islandenergyservices.com",
+    "OWNER": "ISLAND ENERGY SERVICES LLC",
+    "OPERNAME": "ISLAND ENERGY SERVICES DOWNSTREAM",
+    "CAPACITY": 54000,
+    "US_RANK": 98,
+    "CRUDE": 54000,
+    "URL": "https://drive.google.com/uc?id=1S38acLfwTOCNvlUmoYevvrRmD_hT3jor"
+  },
+  {
+    "OBJECTID": 34,
+    "NAME": "BATON ROUGE",
+    "ADDRESS": "4045 SCENIC HIGHWAY",
+    "CITY": "BATON ROUGE",
+    "STATE": "LA",
+    "TYPE": "VERY LARGE COMPLEX REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 1337,
+    "COUNTY": "EAST BATON ROUGE",
+    "LATITUDE": 30.4839,
+    "LONGITUDE": -91.17958,
+    "WEBSITE": "http://corporate.exxonmobil.com",
+    "OWNER": "EXXON MOBIL CORP",
+    "OPERNAME": "EXXONMOBIL REFINING & SUPPLY CO",
+    "CAPACITY": 502500,
+    "US_RANK": 4,
+    "CRUDE": 502500,
+    "URL": "https://drive.google.com/uc?id=1rE5wpKPnN6yGNpSLPgNxpaTtYURgeF0G"
+  },
+  {
+    "OBJECTID": 35,
+    "NAME": "WILMINGTON",
+    "ADDRESS": "1660 W. ANAHEIM STREET",
+    "CITY": "WILMINGTON",
+    "STATE": "CA",
+    "TYPE": "MEDIUM SIZED COMPLEX REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 411,
+    "COUNTY": "LOS ANGELES",
+    "LATITUDE": 33.77309,
+    "LONGITUDE": -118.28705,
+    "WEBSITE": "http://www.phillips66.com",
+    "OWNER": "PHILLIPS 66 COMPANY",
+    "OPERNAME": "PHILLIPS 66 COMPANY",
+    "CAPACITY": 139000,
+    "US_RANK": 54,
+    "CRUDE": 139000,
+    "URL": "https://drive.google.com/uc?id=1Efw3bhjQmDYOkxr3oaJD2CVrks8dkQus"
+  },
+  {
+    "OBJECTID": 36,
+    "NAME": "TACOMA",
+    "ADDRESS": "3001 MARSHALL AVENUE",
+    "CITY": "TACOMA",
+    "STATE": "WA",
+    "TYPE": "SMALL MEDIUM COMPLEXITY REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 170,
+    "COUNTY": "PIERCE",
+    "LATITUDE": 47.25709,
+    "LONGITUDE": -122.39626,
+    "WEBSITE": "http://www.usor.com",
+    "OWNER": "TRAILSTONE LP",
+    "OPERNAME": "US OIL & REFINING CO",
+    "CAPACITY": 40700,
+    "US_RANK": 103,
+    "CRUDE": 40700,
+    "URL": "https://drive.google.com/uc?id=1wovqPhfLq6Kmjfv5_PqdZB0Cv48L5EhE"
+  },
+  {
+    "OBJECTID": 37,
+    "NAME": "COTTON VALLEY",
+    "ADDRESS": "1756 OLD HWY 7",
+    "CITY": "COTTON VALLEY",
+    "STATE": "LA",
+    "TYPE": "SMALL LUBRICANTS REFINERY",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 42,
+    "COUNTY": "WEBSTER",
+    "LATITUDE": 32.79952,
+    "LONGITUDE": -93.41136,
+    "WEBSITE": "http://www.calumetspecialty.com",
+    "OWNER": "CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "OPERNAME": "CALUMET LUBRICANTS CO LP",
+    "CAPACITY": 13020,
+    "US_RANK": 125,
+    "CRUDE": 13020,
+    "URL": "https://drive.google.com/uc?id=1b5cFzlFN_zqqJpOdfan3BlA541MnzTS4"
+  },
+  {
+    "OBJECTID": 38,
+    "NAME": "GREAT FALLS",
+    "ADDRESS": "1900 10TH STREET NE",
+    "CITY": "GREAT FALLS",
+    "STATE": "MT",
+    "TYPE": "VERY SMALL BUT COMPLEX REFINERY CAPABLE OF PROCESSING THE HEAVIEST CRUDE",
+    "STATUS": "IN SERVICE",
+    "POPULATION": 95,
+    "COUNTY": "CASCADE",
+    "LATITUDE": 47.52363,
+    "LONGITUDE": -111.29321,
+    "WEBSITE": "http://www.calumetspecialty.com",
+    "OWNER": "CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "OPERNAME": "CALUMET MONTANA REFINING LLC",
+    "CAPACITY": 33600,
+    "US_RANK": 108,
+    "CRUDE": 24000,
+    "URL": "https://drive.google.com/uc?id=1Kkvq2lHpUvhFb2T5wJP3QMU8mc8gvMH6"
   }
 ]
 
