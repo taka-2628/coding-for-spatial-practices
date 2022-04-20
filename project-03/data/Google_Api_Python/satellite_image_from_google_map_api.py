@@ -40,4 +40,7 @@ def satellite_squares(csvforimport, APIkey, zoom, size):
 
 # call satellite_squares function with the 4 parameters
 # NOTE: you need to use your Google Static Map API Key for "API_KEY"
-satellite_squares("data/oil_ref_download.csv", "API_KEY", 16, 640)
+satellite_squares("data/Google_Api_Python/oil_ref_download.csv", "API_KEY", 16, 640)
+
+# Finally to run this python file to download the satellite images, go to terminal and run the following:
+# /usr/local/bin/python3 /Users/takashihonzawa/Coding/coding-for-spatial-practices/project-03/data/Google_Api_Python/satellite_image_from_google_map_api.py

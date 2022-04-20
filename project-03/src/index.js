@@ -1,4 +1,4 @@
-const data = [
+/*const data = [
   {
     "OBJECTID": 1,
     "NAME": "SOMERSET",
@@ -760,6 +760,9 @@ const data = [
     "URL": "https://drive.google.com/uc?id=1Kkvq2lHpUvhFb2T5wJP3QMU8mc8gvMH6"
   }
 ]
+*/
+
+fetch("../data/db.json")
 
 const dataset = JSON.parse(JSON.stringify(data))
 
