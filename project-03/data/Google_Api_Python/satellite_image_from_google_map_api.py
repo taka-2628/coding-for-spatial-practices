@@ -2,7 +2,7 @@ import requests
 import csv
 from io import open as iopen
 
-# defining a function, it takes four parameters:
+# defining a function, it takes 4 parameters:
     # the path to a csv file containing lat/lon coordinates
     # your API key
     # the zoom level you would your images to be downloaded as
@@ -38,4 +38,6 @@ def satellite_squares(csvforimport, APIkey, zoom, size):
             print(url)
             return False
 
-satellite_squares("data/oil_ref_download.csv", "AIzaSyAgcr4tfoCYgyhyo8kaWxF0kRj6OLfJ2JU", 16, 640)
+# call satellite_squares function with the 4 parameters
+# NOTE: you need to use your Google Static Map API Key for "API_KEY"
+satellite_squares("data/oil_ref_download.csv", "API_KEY", 16, 640)
