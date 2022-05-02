@@ -3110,25 +3110,42 @@ const cardContainer = document.getElementById('card-container');
 function renderData(dataset) {
   for (let i = 0; i < dataset.length; i++){
     
-    const card = document.createElement("div");
+    const card = document.createElement("a");
     card.classList.add("card");
-
-    const hoverContainer = document.createElement("div");
-    hoverContainer.classList.add("hoverWrapper");
 
     const image = document.createElement("img");
     image.setAttribute("src", dataset[i].IMAGE);
 
-    const title = document.createElement("p");
-    title.textContent = `${dataset[i].NAME} REFINERY`;
+    const blackOverlay = document.createElement("div");
+    blackOverlay.classList.add("black");
 
-    hoverContainer.appendChild(image)
-    hoverContainer.appendChild(title)
+    const hover = document.createElement("div");
+    hover.classList.add("hover");
 
-    card.appendChild(hoverContainer)
+    const text = document.createElement("div");
+    text.classList.add("text")
+
+    const name = document.createElement("p");
+    name.classList.add("name");
+    name.textContent = dataset[i].NAME;
+    const latLong = document.createElement("span");
+    latLong.classList.add("lat-long");
+    latLong.textContent = `(${dataset[i].LATITUDE}, ${dataset[i].LONGITUDE})`
+
+    text.appendChild(name);
+    text.appendChild(latLong);
+    
+    hover.appendChild(text)
+    
+    card.appendChild(image)
+    card.appendChild(blackOverlay)
+    card.appendChild(hover)
     
     cardContainer.appendChild(card);
   }
 }
 
 renderData(dataset);
+
+
+
