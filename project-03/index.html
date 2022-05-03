@@ -6,31 +6,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>American Petroleumscape</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="grid.css">
+  <link rel="stylesheet" href="map.css">
   <script src="src/d3.js"></script>
+  <script defer type="text/javascript" src="src/data.js"></script>
   <script defer type="text/javascript" src="src/index.js"></script>
+  <script defer type="text/javascript" src="src/grid.js"></script>
+  <script defer type="text/javascript" src="src/map.js"></script>
 </head>
 <body>
   <header>
     <h1 class="title">American Petroleumscape</h1>
     <div class="topnav">
-      <a class="active" href="#grid">Grid</a>
-      <a href="./mapindex.html">Map</a>
-      <a href="./about.html">About</a>
+      <button id="grid-button" class="active">Grid</button>
+      <button id="map-button" >Map</button>
     </div>
   </header>
   
   <main>
+    <div id="intro">
+    </div>
+
     <div id="grid-view">
       <div id="card-container"></div>
     </div>
 
-    <div id="map-view"></div>
-    
+    <div id="map-view">
+      <h1>MAP VIEW!!!!</h1>
+    </div>
+
   </main>
 
-  <foote>
+  <footer>
 
-  </foote>
+  </footer>
 
 </body>
 </html>
