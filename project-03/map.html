@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8' />
+    <title>Add custom markers in Mapbox GL JS</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css' rel='stylesheet' />
+
+    <link rel="stylesheet" href="map.css">
+
+    <script defer type="text/javascript" src="src/mapdata.js"></script>
+    <script defer type="text/javascript" src="src/map.js"></script>
+</head>
+<body>
+  <header>
+    <h1 class="title">American Petroleumscape</h1>
+    <div class="topnav">
+      <a id="grid-button" href="index.html">Grid</a>
+      <a id="map-button" class="active" href="#">Map</a>
+    </div>
+  </header>
+
+  <div id="map-view">
+    <div id='map'></div>
+  </div>
+</body>
+</html>

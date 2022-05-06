@@ -25,13 +25,13 @@ header {
 
 .topnav {
   overflow: hidden;
-  position: fixed;
+  position: absolute;
   display: inline-block;
   right: 20px;
 }
 
 /* Style the links inside the navigation bar */
-.topnav button {
+.topnav a {
   display:inline-block;
   color: black;
   text-align: right;
@@ -41,14 +41,14 @@ header {
 }
 
 /* Change the color of links on hover */
-.topnav button:hover {
-  background-color: white;
+.topnav a:hover {
+  background-color: #bababa;
   z-index: 2;
   color: black;
 }
 
 /* Add a color to the active/current link */
-.topnav button.active {
+.topnav a.active {
   z-index: 1;
   background-color:#808080;
   color: white;

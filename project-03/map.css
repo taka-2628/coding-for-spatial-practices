@@ -1,3 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+header {
+  padding: 30px;
+  position: fixed;
+  z-index: 10;
+}
+
+.title{
+  margin-top: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  display: inline-block;
+  padding: 10px;
+  color: white
+}
+
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  display: inline-block;
+  right: 20px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  display:inline-block;
+  color: white;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: currentcolor;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #d9d9d9;
+  z-index: 2;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  z-index: 1;
+  background-color:#808080;
+  color: white;
+}
+
 #map-view {
-  display: none;
+  width: 100%; 
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+.marker {
+  background-image: url('refinery-icon_trans.png');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.mapboxgl-popup {
+  max-width: 200px;
+}
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }

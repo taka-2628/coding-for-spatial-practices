@@ -3,42 +3,41 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name='viewport' content='width=device-width, initial-scale=1' />
   <title>American Petroleumscape</title>
+  
+  <!-- MapBox -->
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css' rel='stylesheet' />
+  
+  <!-- D3 -->
+  <script src="src/d3.js"></script>
+
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="grid.css">
-  <link rel="stylesheet" href="map.css">
-  <script src="src/d3.js"></script>
+
   <script defer type="text/javascript" src="src/data.js"></script>
   <script defer type="text/javascript" src="src/index.js"></script>
   <script defer type="text/javascript" src="src/grid.js"></script>
-  <script defer type="text/javascript" src="src/map.js"></script>
 </head>
+
 <body>
   <header>
     <h1 class="title">American Petroleumscape</h1>
     <div class="topnav">
-      <button id="grid-button" class="active">Grid</button>
-      <button id="map-button" >Map</button>
+      <a id="grid-button" class="active" href="#">Grid</a>
+      <a id="map-button" href="map.html">Map</a>
     </div>
   </header>
   
-  <main>
-    <div id="intro">
-    </div>
+  <div id="intro">
+  </div>
 
-    <div id="grid-view">
-      <div id="card-container"></div>
-    </div>
-
-    <div id="map-view">
-      <h1>MAP VIEW!!!!</h1>
-    </div>
-
-  </main>
+  <div id="grid-view">
+    <div id="card-container"></div>
+  </div>
 
   <footer>
-
   </footer>
 
 </body>

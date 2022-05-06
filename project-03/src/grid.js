@@ -1,17 +1,3 @@
-gridButton.addEventListener("click", () => {
-  hideMap();
-  showGrid();
-})
-
-function hideMap(){
-  mapView.style.display = "none";
-}
-
-function showGrid(){
-  gridView.style.display = "block";
-}
-
-
 function renderGrid(dataset) {
   for (let i = 0; i < dataset.length; i++){
     
