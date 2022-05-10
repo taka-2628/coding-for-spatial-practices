@@ -16,7 +16,6 @@ header {
 }
 
 .title{
-  margin-top: 5px;
   text-align: center;
   font-weight: bold;
   font-size: 2em;
@@ -27,6 +26,7 @@ header {
 /* Style the navigation bar */
 .topnav {
   overflow: hidden;
+  margin-top: 5.5px;
   position: absolute;
   display: inline-block;
   right: 20px;
