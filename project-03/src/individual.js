@@ -1,5 +1,5 @@
 function createIndividualDisplay(dataset){
-  for (let i = 0; i < 15; i++){
+  for (let i = 0; dataset.length; i++){
 
     const container = document.createElement('div')
     container.classList.add('individual-display')
