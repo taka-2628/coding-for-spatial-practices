@@ -1,5 +1,5 @@
 function renderGrid(dataset) {
-  for (let i = 0; i < dataset.length; i++){
+  for (let i = 0; i < 15; i++){
     
     const card = document.createElement("a");
     card.classList.add("card");
@@ -12,6 +12,7 @@ function renderGrid(dataset) {
 
     const hover = document.createElement("div");
     hover.classList.add("hover");
+    hover.setAttribute('id', dataset[i].OBJECTID)
 
     const text = document.createElement("div");
     text.classList.add("text")
@@ -37,3 +38,4 @@ function renderGrid(dataset) {
 }
 
 renderGrid(dataset);
+
