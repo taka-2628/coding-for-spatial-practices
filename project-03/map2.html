@@ -70,7 +70,9 @@
 
   /* Style the links inside the navigation bar */
   .topnav a {
+    z-index: 2;
     display:inline-block;
+    background-color: rgba(70, 70, 70, 0.80);
     color: white;
     text-align: right;
     padding: 14px 16px;
@@ -80,16 +82,13 @@
 
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: #d9d9d9;
-    z-index: 2;
-    color: black;
+    background-color: rgba(0, 0, 0, 0.90);
   }
 
   /* Add a color to the active/current link */
   .topnav a.active {
-    z-index: 1;
-    background-color:#808080;
-    color: white;
+    background-color: rgba(70, 70, 70, 0.80);
+    text-decoration: underline;
   }
   </style>
 </head>
@@ -109,7 +108,7 @@
 
   const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/th-th/cl2pjz7ll000915of2t12waa2',/*mapbox://styles/th-th/cl2pjz7ll000915of2t12waa2*/
+  style: 'mapbox://styles/th-th/cl30bmhvy004815ns0s6crrhg',/* mapbox://styles/th-th/cl2pjz7ll000915of2t12waa2 */
   center: [-110, 54],
   zoom: 2.75
   });

@@ -34,7 +34,8 @@ header {
 
 .topnav a {
   display:inline-block;
-  color: black;
+  background-color: #000000;
+  color: #ffffff;
   text-align: right;
   padding: 14px 16px;
   text-decoration: currentcolor;
@@ -43,14 +44,11 @@ header {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #bababa;
-  z-index: 2;
-  color: black;
+  background-color: #777777;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  z-index: 1;
-  background-color:#808080;
-  color: white;
+  background-color: #000000;
+  text-decoration: underline;
 }
